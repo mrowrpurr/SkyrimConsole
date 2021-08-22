@@ -5,3 +5,5 @@
 # `~`
 
 _This project is currently a work in progress._
+
+[Project Board](https://github.com/mrowrpurr/SkyrimConsole/projects/1)
